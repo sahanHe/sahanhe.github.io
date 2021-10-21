@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Avandra Sahan Hemachandra "
+title                    : "Sahan Hemachandra "
 title_separator          : "-"
-name                     : &name "Avandra Sahan Hemachandra"
+name                     : &name "Sahan Hemachandra"
 description              : &description "Love Robotics, Algorithms, Reading Books and Games "
 url                      : https://sahanhe.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
