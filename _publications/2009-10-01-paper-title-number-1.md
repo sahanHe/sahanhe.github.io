@@ -12,5 +12,3 @@ citation: 'Jayasinghe, Oshada & Hemachandra, Sahan & Anhettigama, Damith & Kariy
 This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](https://arxiv.org/abs/2110.11867)
-
-Recommended citation: Jayasinghe, Oshada & Hemachandra, Sahan & Anhettigama, Damith & Kariyawasam, Shenali & Rodrigo, Ranga & Jayasekara, Peshala. (2021). &quot;CeyMo: See More on Roads -- A Novel Benchmark Dataset for Road Marking Detection.&quot; <i>Winter Conference on Applications of Computer Vision</i>. 1(1)..
