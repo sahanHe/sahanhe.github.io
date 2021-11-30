@@ -1,20 +1,21 @@
 ---
-title: "Teaching experience 1"
+title: "Workshop Instructor"
 collection: teaching
-type: "Undergraduate course"
+type: "Introduction to Robotics Seminar Series, Nalanda College, Colombo 10"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Nalanda College"
+date: 2018-August to 2019-Jun
+location: "Colombo, Sri Lanka"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I co-initiated the Introduction to Robotics Seminar Series in nalanda college with collaboration of Robotics Society, Nalanda College, Colombo 10.
+Following topics were mainly covered in the seminars.
 
-Heading 1
+Sensors, Actuators and Control
 ======
 
-Heading 2
+Working with Microbit boards
 ======
 
-Heading 3
+Practical Robot Building
 ======
