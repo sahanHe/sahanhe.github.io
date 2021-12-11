@@ -1,6 +1,6 @@
 ---
 title: "Dual collaborating robotic platforms for Sri Lanka Robotics Challenge 2018"
-excerpt: "We developed two robotics platforms collaborating with each other to carry out the necessory tasks in the arena. <br/><img src='/images/SLRC_vid.gif'>"
+excerpt: "We developed two robotics platforms collaborating with each other to carry out the necessory tasks in the arena. <br/><img src='/images/SLRC_vid.gif' style='width:33%'>"
 collection: portfolio
 ---
 
