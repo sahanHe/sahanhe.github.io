@@ -15,6 +15,5 @@ redirect_from:
 
 Research Vision
 ======
-I want to make robots safe and robust with human-level autonomy in highly dynamic and challenging environments, especially with limited
-computational and sensing capabilities.
+I want to make robots safe and robust with human-level autonomy in highly dynamic and unstructured environments, especially when faced with computational and sensing hardware limitations, which are generally caused by either the small size or cost limitations.
 
