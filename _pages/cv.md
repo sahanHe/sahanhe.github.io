@@ -11,31 +11,18 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Electronic and Telecommunication Engineering, University of Moratuwa, 2021
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021 Jun onwards: Data Engineer
+  * Axiata Digital labs (Pvt) Ltd.
+  * Duties included: R&D projects on cloud based computer vision API developments
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2019 Jun - 2019 December: Trainee Associate Electronic Engineer
+  * Zone24x7 (Pvt) Ltd.
+  * Duties included: Developing CCTV surveillance tools, face liveness and eyewear detection tools, and benchmarking of deep learning models in Android and Jetson devices.
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -56,4 +43,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Served as the founding treasurer of IEEE IES Student Branch Chapter, University of Moratuwa for the term 2020/2021
+* Serving as the founding Industry Coordinator of IEEE SPS Sri Lanka Chapter for the term 2021/2022
