@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am an Engineer interested in Robotics, Computer Vision and Algorithms who specialized in Electronic and Telecommunication Enginerring. I currently work as a Data Engineer in Axiata Digital Labs (Pvt) Ltd.
+* I am a Data Engineer working on computer vision and data science R&D projects in Axiata Digital Labs, Sri Lanka.
+* My research interests generaly alighns with Robotics, Autonomous Systems, Machine Learning, and Resource Constrained Enviorenments.
+* Got my B.Sc. in Electronic and Telecommunication Engineering from University of Moratuwa.
+* I enjoy video games, Reading, and Cooking.
 
-Bio
+Research Vision
 ======
-* Data Engineer at Axiata Digital Labs (Pvt) Ltd. working on computer vision and machine learning projects.
-* Graduated with Bsc.(Hons) in Electronic and Telecommunication Engineering from University of Moratuwa, Sri Lanka. 
-* Interested in Robotics, Mobile Robotics, Robot navigation and perception, Computer vision and algorithms.
+I want to make robots safe and robust with human-level autonomy in highly dynamic and challenging environments, especially with limited
+computational and sensing capabilities.
 
