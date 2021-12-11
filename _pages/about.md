@@ -13,7 +13,7 @@ redirect_from:
 * Got my B.Sc. in Electronic and Telecommunication Engineering from University of Moratuwa.
 * I enjoy video games, Reading, and Cooking.
 
-Research Vision
+Research Vision & Interests
 ======
-I want to make robots safe and robust with human-level autonomy in highly dynamic and unstructured environments, especially when faced with computational and sensing hardware limitations, which are generally caused by either the small size or cost limitations.
+I want to make robotic systems safe and robust with human-level autonomy in highly dynamic and unstructured environments, especially when faced with computational and sensing hardware limitations, which are generally caused by either the small size or cost limitations. To achive this, I am interested in conducting research in multi-robot collaboration and machine learning in field robotics, specifically in navigation, control, and perception with limited computational and sensing capabilities.
 
