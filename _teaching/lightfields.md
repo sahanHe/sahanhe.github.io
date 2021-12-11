@@ -8,13 +8,11 @@ date: 2021-01-01
 location: "Moratuwa, Sri Lanka"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I worked as one of the instructors of the workshop conducted by Dr. Chamira Edussooriya in IEEE EMBS ISC 2021 at University of Moratuwa .
 
-Heading 1
+Light field processing using digital filters
 ======
 
-Heading 2
+Deep learning for light field processing
 ======
 
-Heading 3
-======
