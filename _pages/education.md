@@ -40,13 +40,34 @@ author_profile: true
 <span style="font-size:1em; color:green;padding-left: 8px;">Signal Processing</span>
 
 <span style="font-size:0.9em; padding-left: 8px;"> &bull; Signals & Systems</span><br/>
+<span style="font-size:0.9em; padding-left: 8px;"> &bull; Random Signals and Processes</span><br/>
 <span style="font-size:0.9em; padding-left: 8px;"> &bull; Digital Signal Processing</span><br/>
 <span style="font-size:0.9em; padding-left: 8px;"> &bull; Advanced Signal Processing</span><br/>
+
+<span style="font-size:1em; color:green;padding-left: 8px;">Electronic and Electrical</span>
+
+<span style="font-size:0.9em; padding-left: 8px;"> &bull; Electrical Engineering</span><br/>
+<span style="font-size:0.9em; padding-left: 8px;"> &bull; Electronics I</span><br/>
+<span style="font-size:0.9em; padding-left: 8px;"> &bull; Electronics II Communication</span><br/>
+<span style="font-size:0.9em; padding-left: 8px;"> &bull; Electronics III</span><br/>
+<span style="font-size:0.9em; padding-left: 8px;"> &bull; Theory of Electricity</span><br/>
+<span style="font-size:0.9em; padding-left: 8px;"> &bull; Electronics Product Design and Manufacture</span><br/>
+<span style="font-size:0.9em; padding-left: 8px;"> &bull; Electronic Design Realization</span><br/>
+<span style="font-size:0.9em; padding-left: 8px;"> &bull; Circuits and System Design</span><br/>
+
+<span style="font-size:1em; color:green;padding-left: 8px;">Telecommunication</span>
+
+<span style="font-size:0.9em; padding-left: 8px;"> &bull; Introduction to Telecommunication</span><br/>
+<span style="font-size:0.9em; padding-left: 8px;"> &bull; Communication Systems and Networks </span><br/>
+<span style="font-size:0.9em; padding-left: 8px;"> &bull; Analog and Digital Communication</span><br/>
+<span style="font-size:0.9em; padding-left: 8px;"> &bull; Digital Communication</span><br/>
+<span style="font-size:0.9em; padding-left: 8px;"> &bull; Internet of Things</span><br/>
 
 <span style="font-size:1em; color:green;padding-left: 8px;">Mechanical Engineering</span>
 
 <span style="font-size:0.9em; padding-left: 8px;"> &bull; Fluid Mechanics</span><br/>
 <span style="font-size:0.9em; padding-left: 8px;"> &bull; Mechanics</span><br/>
+<span style="font-size:0.9em; padding-left: 8px;"> &bull; Properties of Materials</span><br/>
 
 
 
