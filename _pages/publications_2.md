@@ -21,7 +21,7 @@ author_profile: true
 <!--    &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; <a href="https://arxiv.org/pdf/1910.12306.pdf">[Paper]</a> <a href="https://vinojjayasundara.github.io/files/NeurIPS19_ppt.pdf">[Presentation]</a> <a href="https://vinojjayasundara.github.io/files/NeurIPS19_Poster.pdf">[Poster]</a> <a href="https://github.com/vinojjayasundara/treecaps">[Code]</a></span> -->
 
 <span style="font-size:0.9em;padding-left: 8px;text-align: justify"> [2]<span style="color:white">a</span><b>SwiftLane: Towards Fast and Efficient Lane Detection</b><br />
-  &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; Oshada Jayasinghe, Damith Anhettigama, <span style="color:green">Sahan Hemachandra</span>, Damith Anhettigama, Shenali Kariyawasam, Peshala Jayasekara and Ranga Rodrigo  <br />
+  &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; Oshada Jayasinghe, Damith Anhettigama, <span style="color:green">Sahan Hemachandra</span>, Shenali Kariyawasam, Peshala Jayasekara and Ranga Rodrigo  <br />
  &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; International Conference on Machine Learning and Applications (ICMLA),  (<span style="color:green">WACV</span>) 2021. <br/>
 <!--    &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; <a href="https://ieeexplore.ieee.org/abstract/document/8658735/">[Paper]</a> <a href="https://vinojjayasundara.github.io/files/WACV19_ppt.pdf">[Presentation]</a> <a href="https://vinojjayasundara.github.io/files/WACV19_Poster.pdf">[Poster]</a> <a href="https://github.com/vinojjayasundara/textcaps">[Code]</a></span> -->
 
@@ -29,7 +29,7 @@ author_profile: true
   
 <span style="font-size:0.9em;padding-left: 8px;text-align: justify"> [3]<span style="color:white">a</span><b>Fast and Accurate Light Field Saliency Detection through Deep Encoding</b><br />
   &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; <span style="color:green">Sahan Hemachandra</span>, Ranga Rodrigo, and Chamira Edussooriy<br />
- &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; Signal Processing : Image Communication Journal, Under Review (<span style="color:green">CVPR</span>) 2021. <br/>
+ &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; Signal Processing : Image Communication Journal, Under Review 2021. <br/>
 <!--    &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; <a href="http://openaccess.thecvf.com/content_CVPR_2019/papers/Rajasegaran_DeepCaps_Going_Deeper_With_Capsule_Networks_CVPR_2019_paper.pdf">[Paper]</a> <a href="https://vinojjayasundara.github.io/files/CVPR19_ppt.pptx">[Presentation]</a> <a href="https://vinojjayasundara.github.io/files/CVPR19_Poster.pdf">[Poster]</a> <a href="https://github.com/vinojjayasundara/deepcaps">[Code]</a></span> -->
    
 
