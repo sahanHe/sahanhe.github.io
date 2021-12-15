@@ -17,12 +17,12 @@ author_profile: true
 <!-- <img style="float: left;" src="/images/cvpr.jpg" width="25%">  -->
 <span style="font-size:0.9em;padding-left: 8px;text-align: justify"> [1]<span style="color:white">a</span><b>CeyMo: See More on Roads - A Novel Benchmark Dataset for Road Marking Detection</b><br />
   &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; Oshada Jayasinghe, <span style="color:green">Sahan Hemachandra</span>, Damith Anhettigama, Shenali Kariyawasam, Peshala Jayasekara and Ranga Rodrigo <br />
- &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; IEEE Winter Conference on Applications of Computer Vision (WACV)  (<span style="color:green">NeurIPS</span>) 2022. <br/>
+ &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; IEEE Winter Conference on Applications of Computer Vision  (<span style="color:green">WACV</span>) 2022. <br/>
 <!--    &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; <a href="https://arxiv.org/pdf/1910.12306.pdf">[Paper]</a> <a href="https://vinojjayasundara.github.io/files/NeurIPS19_ppt.pdf">[Presentation]</a> <a href="https://vinojjayasundara.github.io/files/NeurIPS19_Poster.pdf">[Poster]</a> <a href="https://github.com/vinojjayasundara/treecaps">[Code]</a></span> -->
 
 <span style="font-size:0.9em;padding-left: 8px;text-align: justify"> [2]<span style="color:white">a</span><b>SwiftLane: Towards Fast and Efficient Lane Detection</b><br />
   &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; Oshada Jayasinghe, Damith Anhettigama, <span style="color:green">Sahan Hemachandra</span>, Shenali Kariyawasam, Peshala Jayasekara and Ranga Rodrigo  <br />
- &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; International Conference on Machine Learning and Applications (ICMLA),  (<span style="color:green">WACV</span>) 2021. <br/>
+ &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; International Conference on Machine Learning and Applications,  (<span style="color:green">ICMLA</span>) 2021. <br/>
 <!--    &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; <a href="https://ieeexplore.ieee.org/abstract/document/8658735/">[Paper]</a> <a href="https://vinojjayasundara.github.io/files/WACV19_ppt.pdf">[Presentation]</a> <a href="https://vinojjayasundara.github.io/files/WACV19_Poster.pdf">[Poster]</a> <a href="https://github.com/vinojjayasundara/textcaps">[Code]</a></span> -->
 
 <span style="font-size:1em; color:gray;background-color: #F0F0F0;height: 4em; width: 57em; display:inline-block; vertical-align: middle; padding-top: 22px;padding-left: 8px;text-align: left"><b>Journal Papers</b></span><br/>
