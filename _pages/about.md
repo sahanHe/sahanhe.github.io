@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 * I am a Data Engineer working on computer vision and data science R&D projects in Axiata Digital Labs, Sri Lanka.
-* My research interests generaly aligns with Robotics, Autonomous Systems, Machine Learning, and Resource Constrained Enviorenments.
+* My research interests generaly align with Robotics, Autonomous Systems, Machine Learning, and Resource Constrained Enviorenments.
 * Got my B.Sc. in Electronic and Telecommunication Engineering from University of Moratuwa.
 * I enjoy video games, Reading, and Cooking.
 
