@@ -33,7 +33,7 @@ author_profile: true
  
 <span style="font-size:1em;font-family:georgia; color:gray;background-color: #F0F0F0;height: 4em; width: 57em; display:inline-block; vertical-align: middle; padding-top: 22px;padding-left: 8px;text-align: left"><b>Achievements</b></span><br/>
 
-<span style="font-size:0.9em;padding-left: 8px;text-align: justify"> [1]<span style="color:white">a</span><b> World - 106 Cpuntry - 6: IEEEXtreme 14.0 <span style="color:green"> (2020) </span></b><br />
+<span style="font-size:0.9em;padding-left: 8px;text-align: justify"> [1]<span style="color:white">a</span><b> World - 106 Country - 6: IEEEXtreme 14.0 <span style="color:green"> (2020) </span></b><br />
  &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; <i> Organized by the IEEE Computer Society </i><br/>
 
  
