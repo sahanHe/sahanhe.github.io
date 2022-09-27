@@ -51,3 +51,9 @@ author_profile: true
 <span style="font-size:0.9em;padding-left: 8px;text-align: justify"> [6]<span style="color:white">a</span><b>Distinction : Sri Lanka Mathematics Olympiad<span style="color:green"> (2014) </span></b><br />
  &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; <i> Organized by Sri Lanka Olympiad Mathematics Foundation </i><br/>
  &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; Sri Lanka <br/>
+ 
+
+<span style="font-size:1em;font-family:georgia; color:gray;background-color: #F0F0F0;height: 4em; width: 57em; display:inline-block; vertical-align: middle; padding-top: 22px;padding-left: 8px;text-align: left"><b>Grants</b></span><br/>
+
+<span style="font-size:0.9em;padding-left: 8px;text-align: justify"> [6]<span style="color:white">a</span><b>Practicing Engneer Travel Grant to ICASSP 2022<span style="color:green"> (2014) </span></b><br />
+ &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; <i> IEEE Signal Processing Society </i><br/>
