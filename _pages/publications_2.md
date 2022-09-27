@@ -38,4 +38,10 @@ author_profile: true
  &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; Signal Processing : Image Communication Journal, Under Review 2022. <br/>
 <!--    &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; <a href="http://openaccess.thecvf.com/content_CVPR_2019/papers/Rajasegaran_DeepCaps_Going_Deeper_With_Capsule_Networks_CVPR_2019_paper.pdf">[Paper]</a> <a href="https://vinojjayasundara.github.io/files/CVPR19_ppt.pptx">[Presentation]</a> <a href="https://vinojjayasundara.github.io/files/CVPR19_Poster.pdf">[Poster]</a> <a href="https://github.com/vinojjayasundara/deepcaps">[Code]</a></span> -->
    
+<span style="font-size:1em; color:gray;background-color: #F0F0F0;height: 4em; width: 57em; display:inline-block; vertical-align: middle; padding-top: 22px;padding-left: 8px;text-align: left"><b>Articles</b></span><br/>
+  
+<span style="font-size:0.9em;padding-left: 8px;text-align: justify"> [3]<span style="color:white">a</span><b>A guide for Date/Time conversion in Ballerina Language</b><br />
+  &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; <span style="color:green">Sahan Hemachandra<br />
+ &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; WSO2 Collective<br/>
+ &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; <a href="https://stackoverflow.com/collectives/wso2/articles/73277351/a-guide-for-date-time-conversion-in-ballerina-language">[Article]</a> </span>
 
