@@ -9,8 +9,8 @@ main:
   - title: "Education "
     url: /education/
 
-#   - title: "Teaching"
-#     url: /teaching/  
+  - title: "Workshops and Sessions"
+    url: /teaching/  
     
 #   - title: "CV"
 #     url: /cv/
