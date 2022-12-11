@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-* I am a Data Engineer working on computer vision and data science R&D projects in Axiata Digital Labs, Sri Lanka.
-* My interests generaly align with Robotics, Computer Vision, Autonomous Systems, Machine Learning, and Resource Constrained Enviorenments.
+* I am a Software Engineer at WSO2 working on the development of standard libraries for Ballerina languange. 
+* Previously I was a Data Engineer working on computer vision and data science R&D projects in Axiata Digital Labs, Sri Lanka.
+* My interests generaly align with Robotics, Computer Vision, Collaboration and Collective Behaviour, Autonomous Systems, Machine Learning, and Resource Constrained Enviorenments.
 * Got my B.Sc. in Electronic and Telecommunication Engineering from University of Moratuwa.
 * I enjoy video games, Reading, and Cooking.
 
