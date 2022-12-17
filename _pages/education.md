@@ -12,6 +12,7 @@ author_profile: true
 <span style="font-size:1em;font-family:georgia; color:gray;background-color: #F0F0F0;height: 4em; width: 57em; display:inline-block; vertical-align: middle; padding-top: 22px;padding-left: 8px;text-align: left"><b>Bachelor of Science in Engineering (BSc. Eng. Hons) | University of Moratuwa | First Class Honours</b></span><br/>
 
 <span style="font-size:1em;font-family:georgia; color:black;padding-left: 8px;">Thesis : Road Sign, Traffic Light and Static Object Detection for Self-Driving.</span>
+
 <span style="font-size:1em;font-family:georgia; color:black;padding-left: 8px;">Awarded dean's list for all 8 semesters.</span>
 
 <span style="font-size:1em;font-family:georgia; color:green;padding-left: 8px;">Robotics, Computer Vision and AI related Modules</span>
