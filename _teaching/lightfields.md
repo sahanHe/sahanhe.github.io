@@ -2,7 +2,7 @@
 title: "Workshop Instructor"
 collection: teaching
 type: "Workshop on Light Field Processing using Low-Complexity Signal Processing Algorithms and Deep Learning"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/lightfields
 venue: "University of Moratuwa, Department of Electronic and Telecommunication Engineering"
 date: 2021-01-01
 location: "Moratuwa, Sri Lanka"
