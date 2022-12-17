@@ -8,13 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-* I am a Software Engineer at WSO2 working on the development of standard libraries for Ballerina languange. 
-* Previously I was a Data Engineer working on computer vision and data science R&D projects in Axiata Digital Labs, Sri Lanka.
+* Currently working as a Software Engineer at WSO2, developing of standard libraries for Ballerina languange. 
+* Previously worked as a Data Engineer at Axiata Digital Labs, Sri Lanka, working on computer vision and data science R&D projects.
 * My interests generaly align with Robotics, Computer Vision, Collaboration and Collective Behaviour, Autonomous Systems, Machine Learning, and Resource Constrained Enviorenments.
-* Got my B.Sc. in Electronic and Telecommunication Engineering from University of Moratuwa.
+* B.Sc. in Electronic and Telecommunication Engineering from University of Moratuwa.
 * I enjoy video games, Reading, and Cooking.
-
-<!-- Research Vision & Interests
-======
-I want to make robotic systems safe and robust with human-level autonomy in highly dynamic and unstructured environments, especially when faced with computational and sensing hardware limitations, which are generally caused by either the small size or cost limitations. To achive this, I am interested in conducting research in multi-robot collaboration and machine learning in field robotics, specifically in navigation, control, and perception with limited computational and sensing capabilities. -->
 
