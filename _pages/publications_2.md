@@ -28,7 +28,7 @@ author_profile: true
 <!-- <img style="float: left;" src="/images/cvpr.jpg" width="25%">  -->
 <span style="font-size:0.9em;padding-left: 8px;text-align: justify"> [2]<span style="color:white">a</span><b>Towards Real-time Traffic Sign and Traffic Light Detection on Embedded Systems</b><br />
   &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; Oshada Jayasinghe, <span style="color:green">Sahan Hemachandra</span>, Damith Anhettigama, Shenali Kariyawasam, Peshala Jayasekara and Ranga Rodrigo <br />
- &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; 33rd IEEE Intelligent Vehicles (IV) Symposium 2022  (<span style="color:green">WACV </span>) 2022. <br/>
+ &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; 33rd IEEE Intelligent Vehicles (IV) Symposium 2022  (<span style="color:green">IV Symposium </span>) 2022. <br/>
 
 <span style="font-size:0.9em;padding-left: 8px;text-align: justify"> [3]<span style="color:white">a</span><b>SwiftLane: Towards Fast and Efficient Lane Detection</b><br />
   &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; Oshada Jayasinghe, Damith Anhettigama, <span style="color:green">Sahan Hemachandra</span>, Shenali Kariyawasam, Peshala Jayasekara and Ranga Rodrigo  <br />
