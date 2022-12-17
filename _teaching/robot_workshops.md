@@ -2,7 +2,7 @@
 title: "Workshop Instructor"
 collection: teaching
 type: "Introduction to Robotics Seminar Series, Nalanda College, Colombo 10"
-permalink: /teaching/2016-spring-teaching-1
+permalink: /teaching/robotics-nalanda
 venue: "Nalanda College, Colombo 10"
 date: 2018-August to 2019-Jun
 location: "Colombo, Sri Lanka"
