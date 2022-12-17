@@ -16,7 +16,7 @@ author_profile: true
   
 <span style="font-size:0.9em;padding-left: 8px;text-align: justify"> [1]<span style="color:white">a</span><b>Fast and Accurate Light Field Saliency Detection through Deep Encoding</b><br />
   &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; <span style="color:green">Sahan Hemachandra</span>, Ranga Rodrigo, and Chamira Edussooriy<br />
- &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; Signal Processing : Image Communication Journal, volume 110, Jan 2023. <br/>
+ &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; Signal Processing : Image Communication (special issue on light field imaging), volume 110, Jan 2023. <br/>
 
 <span style="font-size:1em; color:gray;background-color: #F0F0F0;height: 4em; width: 57em; display:inline-block; vertical-align: middle; padding-top: 22px;padding-left: 8px;text-align: left"><b>Conference Papers</b></span><br/>
 
