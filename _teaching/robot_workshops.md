@@ -4,7 +4,7 @@ collection: teaching
 type: "Introduction to Robotics Seminar Series, Nalanda College, Colombo 10"
 permalink: /teaching/robotics-nalanda
 venue: "Nalanda College, Colombo 10"
-date: 2018-August to 2019-Jun
+date: 2018-8-1
 location: "Colombo, Sri Lanka"
 ---
 
