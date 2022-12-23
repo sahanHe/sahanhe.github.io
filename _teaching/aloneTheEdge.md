@@ -3,7 +3,7 @@ title: "Lecturer"
 collection: teaching
 type: "Embedded Machine Learning for Edge Computing"
 permalink: /teaching/alone-the-edge
-venue: "University of Moratuwa, Department of Electronic and Telecommunication Engineering"
+venue: "Department of Electronic and Telecommunication Engineering, University of Moratuwa"
 date: September to November, 2022
 location: "Moratuwa, Sri Lanka"
 ---
