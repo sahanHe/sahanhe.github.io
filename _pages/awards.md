@@ -48,7 +48,7 @@ author_profile: true
  
 <span style="font-size:0.9em;padding-left: 8px;text-align: justify"> [5]<span style="color:white">a</span><b> Country 6th : MoraXtreme 5.0 <span style="color:green"> (2020) </span></b><br />
  &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; <i> Organized by IEEE Computer Society Student Branch Chapter, University of Moratuwa </i><br/>
- &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; Bombay, India <br/>
+ &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; Moratuwa, Sri Lanka <br/>
  
 <span style="font-size:0.9em;padding-left: 8px;text-align: justify"> [6]<span style="color:white">a</span><b>Finalists : Sri Lanka Robotics Competition<span style="color:green"> (2018) </span></b><br />
  &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; <i> Organized by the University of Moratuwa </i><br/>
