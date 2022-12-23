@@ -58,16 +58,16 @@ author_profile: true
  &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; <i> Organized by the University of Ruhuna, Faculty of Engineering </i><br/>
  &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; Galle, Sri Lanka <br/>
  
-<span style="font-size:0.9em;padding-left: 8px;text-align: justify"> [7]<span style="color:white">a</span><b>Professor Padmajeeva Ganepola Challenge Trophy<span style="color:green"> (2016) </span></b><br />
+<span style="font-size:0.9em;padding-left: 8px;text-align: justify"> [8]<span style="color:white">a</span><b>Professor Padmajeeva Ganepola Challenge Trophy<span style="color:green"> (2016) </span></b><br />
  &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; <i> By Nalanda College, Colombo 10, for obtaining the highest results in the school in GCE A/L examination science streams.</i><br/>
  
-<span style="font-size:0.9em;padding-left: 8px;text-align: justify"> [8]<span style="color:white">a</span><b>Dr. Sarath D. Gunapala Challenge Trophy<span style="color:green"> (2016) </span></b><br />
+<span style="font-size:0.9em;padding-left: 8px;text-align: justify"> [9]<span style="color:white">a</span><b>Dr. Sarath D. Gunapala Challenge Trophy<span style="color:green"> (2016) </span></b><br />
  &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; <i> By Nalanda College, Colombo 10, for obtaining the highest results in the school in GCE A/L examination physical science stream. </i><br/>
  
-<span style="font-size:0.9em;padding-left: 8px;text-align: justify"> [9]<span style="color:white">a</span><b>Gold Medal : Sri Lanka Physics Olympiad Competition<span style="color:green"> (2015) </span></b><br />
+<span style="font-size:0.9em;padding-left: 8px;text-align: justify"> [10]<span style="color:white">a</span><b>Gold Medal : Sri Lanka Physics Olympiad Competition<span style="color:green"> (2015) </span></b><br />
  &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; <i> Organized by Institute of Physics, University of Colombo, obtaining an overall score of 94 (4th highest score) </i><br/>
  
-<span style="font-size:0.9em;padding-left: 8px;text-align: justify"> [10]<span style="color:white">a</span><b>Distinction : Sri Lanka Mathematics Olympiad<span style="color:green"> (2014) </span></b><br />
+<span style="font-size:0.9em;padding-left: 8px;text-align: justify"> [11]<span style="color:white">a</span><b>Distinction : Sri Lanka Mathematics Olympiad<span style="color:green"> (2014) </span></b><br />
  &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; <i> Organized by Sri Lanka Olympiad Mathematics Foundation </i><br/>
  &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; Sri Lanka <br/>
  
