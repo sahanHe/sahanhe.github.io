@@ -37,7 +37,7 @@ author_profile: true
  &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; <i> NBQSA National ICT Awards 2022, Awarded by British Computer Society, Sri Lanka Section. </i><br/>
  
 <span style="font-size:0.9em;padding-left: 8px;text-align: justify"> [2]<span style="color:white">a</span><b> Research Project of the Year <span style="color:green"> (2022) </span></b><br />
- &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; <i> NBQSA National ICT Awards 2022,  Awarded by British Computer Society, Sri Lanka Section and IEEE Computer Society, Sri Lanka Chapter. </i><br/>
+ &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; <i> NBQSA National ICT Awards 2022,  Awarded by <br/>British Computer Society, Sri Lanka Section <br/>IEEE Computer Society, Sri Lanka Chapter. </i><br/>
  
 <span style="font-size:0.9em;padding-left: 8px;text-align: justify"> [3]<span style="color:white">a</span><b> Dean's List in all 8 semesters <span style="color:green"> (2021) </span></b><br />
  &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; <i> University of Moratuwa </i><br/>
