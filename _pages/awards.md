@@ -54,6 +54,10 @@ author_profile: true
  &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; <i> Organized by the University of Moratuwa </i><br/>
  &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; Moratuwa, Sri Lanka <br/>
  
+<span style="font-size:0.9em;padding-left: 8px;text-align: justify"> [7]<span style="color:white">a</span><b>Finalists : Xbotix<span style="color:green"> (2018) </span></b><br />
+ &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; <i> Organized by the University of Ruhuna, Faculty of Engineering </i><br/>
+ &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; Galle, Sri Lanka <br/>
+ 
 <span style="font-size:0.9em;padding-left: 8px;text-align: justify"> [7]<span style="color:white">a</span><b>Professor Padmajeeva Ganepola Challenge Trophy<span style="color:green"> (2016) </span></b><br />
  &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; <i> By Nalanda College, Colombo 10, for obtaining the highest results in the school in GCE A/L examination science streams.</i><br/>
  
