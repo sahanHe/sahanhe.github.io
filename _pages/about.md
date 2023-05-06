@@ -10,7 +10,7 @@ redirect_from:
 
 * Currently working as a Software Engineer at WSO2, developing of standard libraries for Ballerina languange. 
 * Worked as a Data Engineer at Axiata Digital Labs, Sri Lanka, working on computer vision and data science R&D projects.
-* My research interests generaly align with Robotics, Computer Vision, Collaboration and Collective Behaviour, Autonomous Systems, Machine Learning, and Resource Constrained Enviorenments.
+* My research interests generaly align with Robotics, Robot Perception, Collaboration and Collective Behaviour, Autonomous Systems, Machine Learning, and Resource Constrained Enviorenments.
 
 
 * Enjoy games, reading, and cooking.
