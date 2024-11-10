@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-* Currently working as a Software Engineer at WSO2, developing standard libraries for the Ballerina languange. 
+* Currently working as a Research Associate at MBZUAI.
+* Worked as a Software Engineer at WSO2, developing standard libraries for the Ballerina languange. 
 * Worked as a Data Engineer at Axiata Digital Labs, Sri Lanka, working on computer vision and data science R&D projects.
 * My research interests generaly align with Computer Vision, Robot Perception, Robotics, Machine Learning, and Resource Constrained Enviorenments.
 
